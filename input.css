@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media screen and (max-width:576px) {
+#header {
+  background-image: url('../images/bg-header-mobile.png');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+}
+
+} 
+
+@media screen and (min-width:576px) {
+  #header {
+    background-image: url('../images/bg-header-desktop.png');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: center;
+  }
+}
+
+
+
+
+
