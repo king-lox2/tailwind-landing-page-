@@ -1,24 +1,24 @@
-# tailwind-landing-page-inspiration from frontend mentor
+# tailwind-landing-page-  Project Challenge inspiration from frontend mentor
 
-LINK TO SITE 
+# LINK TO SITE 
 https://king-lox2.github.io/tailwind-landing-page-/
 
 
 
 
-MOBILE VIEW 
+# MOBILE VIEW 
 
 ![MOBILE 11](https://user-images.githubusercontent.com/59830659/176776513-6929e5fd-cbcc-49f3-a0e9-3444b7c8a1f5.png)
 ![MOBILE 22](https://user-images.githubusercontent.com/59830659/176776546-031648fe-ced2-4eb4-a39e-b67e1d1e8c5b.png)
 ![MOBILE 33](https://user-images.githubusercontent.com/59830659/176776575-b2bf846a-74bc-41dc-89e2-0481f47d92fa.png)
 
-DESKTOP VIEW 
+# DESKTOP VIEW 
 
 ![Desktop 11](https://user-images.githubusercontent.com/59830659/176776704-b099b8c9-9ebc-47d3-8263-1f5e3be49963.png)
 ![Desktop 22](https://user-images.githubusercontent.com/59830659/176776729-e592f078-ab8e-4406-b580-cad8f58020b2.png)
 
 
-MOBILE VIEW LAYOUTS 
+# MOBILE VIEW LAYOUTS 
 ![S1](https://user-images.githubusercontent.com/59830659/176776919-93717ecb-6817-42bb-8df1-21a954d09426.png)
 ![S2](https://user-images.githubusercontent.com/59830659/176777166-85aee353-9b35-47ec-a8eb-6b04b9351a94.png)
 ![S3](https://user-images.githubusercontent.com/59830659/176777187-a3980ba2-9e87-4b5f-a6c9-4c6ca9447e32.png)
