@@ -1,5 +1,11 @@
 # tailwind-landing-page-inspiration from frontend mentor
 
+LINK TO SITE 
+https://king-lox2.github.io/tailwind-landing-page-/
+
+
+
+
 MOBILE VIEW 
 
 ![MOBILE 11](https://user-images.githubusercontent.com/59830659/176776513-6929e5fd-cbcc-49f3-a0e9-3444b7c8a1f5.png)
